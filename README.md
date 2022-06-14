@@ -5,6 +5,7 @@
 - 📫 How to reach me ...
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Xrg360&show_icons=true&theme=radical)
+![Language](https://github-readme-stats.vercel.app/api/top-langs/?username=Xrg360&show_icons=true&theme=radical)
 
 <!---
 Xrg360/Xrg360 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
