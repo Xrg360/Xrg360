@@ -1,5 +1,3 @@
-https://github-readme-stats.vercel.app/api?username=Xrg360)](https://github.com/anuraghazra/github-readme-stats
-
 - 👋 Hi, I’m @Xrg360
 - 👀 I’m interested in Code & Program automation
 - 🌱 I’m currently learning Competitive coding and React js
