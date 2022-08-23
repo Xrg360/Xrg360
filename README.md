@@ -18,6 +18,9 @@
   <a href="mailto:code.mastermind.07@gmail.com">
     <img align="left" alt="Rohit George | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
   </a>
+  
+ <br>
+ <hr>
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Xrg360&show_icons=true&theme=radical)
 ![Language](https://github-readme-stats.vercel.app/api/top-langs/?username=Xrg360&show_icons=true&theme=radical)
