@@ -23,8 +23,7 @@
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Xrg360&show_icons=true&theme=radical)
 ![Language](https://github-readme-stats.vercel.app/api/top-langs/?username=Xrg360&show_icons=true&theme=radical)
-![icon](https://img.shields.io/badge/-HTML-e34f26?logo=html5&logoColor=fff)
-
+<!-- ![icon](https://img.shields.io/badge/-HTML-e34f26?logo=html5&logoColor=fff) -->
 
 # Languages used
 
