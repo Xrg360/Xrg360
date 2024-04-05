@@ -4,8 +4,6 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="500">
-<br><br>
 <br>
 
   <a href="https://in.linkedin.com/in/rohit-babu-george">
@@ -27,6 +25,8 @@
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Xrg360&show_icons=true&theme=radical)
 ![Language](https://github-readme-stats.vercel.app/api/top-langs/?username=Xrg360&show_icons=true&theme=radical)
 <!-- ![icon](https://img.shields.io/badge/-HTML-e34f26?logo=html5&logoColor=fff) -->
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="500">
+<br><br>
 
 # Languages used
 
