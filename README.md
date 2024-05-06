@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Xrg360
 - 👀 I’m interested in Code & Program automation
-- 🌱 I’m currently learning Competitive coding and React js
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Competitive coding and React js and a bit of machine learning
+- 💞️ I’m looking to collaborate on PROJECTS
+- 📫 How to reach me 
 
 <br>
 
